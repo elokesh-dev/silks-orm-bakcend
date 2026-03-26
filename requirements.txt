@@ -4,3 +4,5 @@ mongoengine
 python-dotenv
 Flask-JWT-Extended
 Werkzeug
+flask-cors
+gunicorn
