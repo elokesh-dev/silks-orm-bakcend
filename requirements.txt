@@ -1,0 +1,6 @@
+Flask
+flask-mongoengine
+mongoengine
+python-dotenv
+Flask-JWT-Extended
+Werkzeug
